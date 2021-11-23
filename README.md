@@ -3,6 +3,10 @@ Codigo recibido:
 ---Hemos encontrado los siguientes fallos:
 >No tienen "from ramdon import choice, sample" codificado
 
+El diagrama de flujo es el siguiente:
+
+![WhatsApp Image 2021-11-23 at 11 56 22](https://user-images.githubusercontent.com/91721888/143012212-56f42be1-50fd-4823-8236-1a4a189f61bd.jpeg)
+
 El codigo del juego es el siguiente:
 ```#vamos a crear un juego de black jack
 
