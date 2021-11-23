@@ -1,7 +1,8 @@
 # shu-ha-ri
 Codigo recibido:
 ---Hemos encontrado los siguientes fallos:
->No tienen "from ramdon import choice, sample" codificado
+>No tienen "from ramdon import choice, sample" bien codificado
+
 
 El diagrama de flujo es el siguiente:
 
